@@ -1,0 +1,4 @@
+target_adapters = ["noir"]
+target_platforms = ["ios"]
+ios = ["aarch64-apple-ios"]
+android = []
